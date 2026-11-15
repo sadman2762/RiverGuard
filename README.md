@@ -1,4 +1,5 @@
-**RiverGuard** is a web map that shows where the Jamuna River in Bangladesh is eating its banks, and who lives behind them. It currently covers a 56 km stretch from Sirajganj to Chauhali, both banks.
+# RiverGuard
+[RiverGuard](https://www.riverguard.earth) is a web map that shows where the Jamuna River in Bangladesh is eating its banks, and who lives behind them. It currently covers a 56 km stretch from Sirajganj to Chauhali, both banks.
 
 ## Key Features
 
